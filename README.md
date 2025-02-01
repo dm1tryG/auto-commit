@@ -15,7 +15,7 @@ A utility for automatically generating meaningful commit messages using OpenAI A
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd test-repository
+cd auto-commit
 ```
 
 2. Create `.env` file and add your OpenAI API key:
